@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gj
+- 👋 Hi, I’m Gk
 - 👀 I’m interested in Coding Automation Algos on Python
 - 🌱 I’m a plant
 - 💞️ I’m looking to collaborate on Nothing
