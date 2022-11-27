@@ -1,4 +1,4 @@
-- 👋 Hi, I’m This is a Test Pish
+- 👋 Hi, I’m This is a Test Push
 - 👀 I’m interested in Coding Execution Algos on Python
 - 🌱 I’m not a Plan
 - 💞️ I’m looking to collaborate on Execution Algos for Cpaital Markets
